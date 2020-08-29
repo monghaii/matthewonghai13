@@ -4,9 +4,7 @@
 
 I'm a full-stack web and mobile software engineer based in Austin, Texas. I am currently pursuing a Bachelors of Science in Computer Science at the University of Texas at Austin (c.o. 2021, May).
 
-I'm very passionate about expressing creativity in my pursuits and making things that people haven't seen before. As a result, I have many overlapping interests across the tech stack.
-
-My programming experience began with HTML and CSS; creating visual layouts is how I transitioned from art to programming. As a result of my education and personal practice, I am currently well-acquainted with React, C++, and Swift. I'm excited to see what we can work on together!
+I'm very passionate about expressing creativity in my pursuits and making things that people haven't seen before. As a result, I have many overlapping interests across the tech stack. I'm excited to see what we can work on together!
 
 Outside of programming, I'm very interested in making music, painting, photography, astronomy, and graphic design.
 

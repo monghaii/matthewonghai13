@@ -2,7 +2,7 @@
 
 ### My name is Matthew Onghai 🤩
 
-I'm a full-stack web and mobile software engineer based in Austin, Texas. I am currently pursuing a Bachelors of Science in Computer Science at the University of Texas at Austin (c.o. 2021, May).
+I'm a full-stack web and mobile software engineer based in Austin, Texas. I am currently pursuing a Bachelors of Science in Computer Science and Arts at the University of Texas at Austin (c.o. 2021, May).
 
 I'm very passionate about expressing creativity in my pursuits and making things that people haven't seen before. As a result, I have many overlapping interests across the tech stack. I'm excited to see what we can work on together!
 

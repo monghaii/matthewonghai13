@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-### My name is Matthew Onghai 🤩
+#### My name is Matthew Onghai 🤩
 
 ### Education:
 - 🤠 UT Austin (BSA Computer Science '21)

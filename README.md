@@ -2,12 +2,17 @@
 
 ### My name is Matthew Onghai 🤩
 
+
 I like to create:
 
 Web applications with React, Vue, Node
+
 Quality-of-life Scripts with Python
+
 iOS + Mac Applications with Swift
+
 Games with Unity/C#, Unreal Engine/C++
+
 
 Outside of programming, I'm very interested in making music, painting, photography, astronomy, and graphic design.
 

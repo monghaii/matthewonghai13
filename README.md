@@ -10,10 +10,10 @@
 
 #### I like to create:
 
-- Web applications with React, Vue, Node
-- Cool scripts with Python
-- iOS + Mac Applications with Swift
-- Games with Unity/C#, Unreal Engine/C++
+- 🌐 Web applications with React, Vue, Node
+- 🐍 Cool scripts with Python
+- 📱 iOS + Mac Applications with Swift
+- 🎮 Games with Unity/C#, Unreal Engine/C++
 
 
 

@@ -2,7 +2,7 @@
 
 #### My name is Matthew Onghai 🤩
 
-### Education:
+#### Education:
 - 🤠 UT Austin (BSA Computer Science '21)
 - ✌️ USC (MS Computer Science '23)
 

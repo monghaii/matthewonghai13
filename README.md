@@ -2,9 +2,12 @@
 
 ### My name is Matthew Onghai 🤩
 
-I'm a web, mobile, and multimedia software engineer based in Austin, Texas.
+I like to create:
 
-I'm very passionate about expressing creativity in my pursuits and making things that people haven't seen before. As a result, I have many overlapping interests across the tech stack. I'm excited to see what we can work on together!
+Web applications with React, Vue, Node
+Quality-of-life Scripts with Python
+iOS + Mac Applications with Swift
+Games with Unity/C#, Unreal Engine/C++
 
 Outside of programming, I'm very interested in making music, painting, photography, astronomy, and graphic design.
 

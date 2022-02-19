@@ -12,7 +12,7 @@
 
 - 🌐 Web applications with React, Vue, Node
 - 🐍 Cool scripts with Python
-- 📱 iOS + Mac Applications with Swift
+- 📱 iOS + Mac Applications with Swift, React Native
 - 🎮 Games with Unity/C#, Unreal Engine/C++
 
 

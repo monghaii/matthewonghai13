@@ -4,7 +4,7 @@
 
 #### Education:
 - 🤠 UT Austin (BSA Computer Science '21)
-- ✌️ USC (MS Computer Science '23)
+- ✌️ USC (MS Computer Science '23, (Part Time))
 
 
 

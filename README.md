@@ -17,7 +17,7 @@
 
 
 
-#### Outside of programming, I'm very interested in making music, oil painting, and photography.
+#### Outside of programming, I enjoy making music, painting, and living through my foodie character arc
 
 <!--
 **matthewonghai13/matthewonghai13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
